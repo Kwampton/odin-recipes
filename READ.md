@@ -1,1 +1,1 @@
-hello worlds this is he who is him
+Hopefully creating this project solidfies the knowledge that I have learned at this beginning of this course. Building strong foundations is important. 
